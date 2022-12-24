@@ -1,6 +1,6 @@
 # To-Do App Developed in Kotlin for the purpose of an online course
 
-A To-Do using Kotlin Room database and RxJava and MVVM Architecture
+A To-Do using Kotlin Room database and coroutines and MVVM Architecture
 
 ## Screenshots
 
