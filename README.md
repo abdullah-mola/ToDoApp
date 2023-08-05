@@ -2,6 +2,10 @@
 
 A To-Do using Kotlin Room database and coroutines and MVVM Architecture
 
+# Eine To-Do-App entwickelt in Kotlin für den Zweck eines Online-Kurses.
+
+Eine To-Do-App, die Kotlin Room-Datenbank, Coroutines und die MVVM-Architektur verwendet.
+
 ## Screenshots
 
 <a href="https://ibb.co/HH1Gzdv"><img src="https://i.ibb.co/DRswCpX/Home.jpg" alt="Home Page" border="0"></a>
@@ -33,3 +37,13 @@ A To-Do using Kotlin Room database and coroutines and MVVM Architecture
 * Linear, Grid, Staggered Layout in RecyclerView 
 * Develop fully functional app 
 * Clean Architecture
+
+  
+# Presentation English
+* https://tome.app/abdullah-ded/building-a-robust-android-app-with-kotlin-mvvm-coroutines-retrofit-room-and-recyclerview-clky5zk6o01w8pq5rb0jxz598
+
+
+# Präsentation Deutsch
+* https://tome.app/abdullah-ded/kotlin-mvvm-architektur-mit-coroutinen-retrofit-und-raumdatenbank-clky67lg2020oms5sdd4qe2nq
+
+  
